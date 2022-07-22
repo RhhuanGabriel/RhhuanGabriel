@@ -25,4 +25,5 @@
     <a href="https://www.microsoft.com/sql-server" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" height="30" width="40" style="max-width: 100%"></a>
     <a href="https://getbootstrap.com/" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="30" width="40" style="max-width: 100%"></a>
     <a href="https://docs.microsoft.com/dotnet/" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotNET" height="30" width="40" style="max-width: 100%"></a>
+    <a href="https://git-scm.com/" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="30" width="40" style="max-width: 100%"></a>
 </div>
