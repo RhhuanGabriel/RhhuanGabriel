@@ -24,4 +24,5 @@
     <a href="https://www.w3schools.com/mySQl" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="30" width="40" style="max-width: 100%"></a>
     <a href="https://www.microsoft.com/sql-server" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" height="30" width="40" style="max-width: 100%"></a>
     <a href="https://getbootstrap.com/" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="30" width="40" style="max-width: 100%"></a>
+    <a href="https://docs.microsoft.com/dotnet/" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotNET" height="30" width="40" style="max-width: 100%"></a>
 </div>
