@@ -15,14 +15,14 @@
 </div>
 
 <div>
-    <a href="https://www.arduino.cc" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" height="30" width="40" style="max-width: 100%"></a>
-    <a href="https://www.w3schools.com/cs" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="30" width="40" style="max-width: 100%"></a>
-    <a href="https://www.w3schools.com/html/" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="30" width="40" style="max-width: 100%"></a>
-    <a href="https://www.w3schools.com/css/" rel="nofollor"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="30" width="40" style="max-width: 100%"></a>
-    <a href="https://code.visualstudio.com/" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="30" width="40" style="max-width: 100%"></a>
-    <a href="https://visualstudio.microsoft.com/" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="30" width="40" style="max-width: 100%"></a>
-    <a href="https://www.w3schools.com/mySQl" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="30" width="40" style="max-width: 100%"></a>
-    <a href="https://www.microsoft.com/sql-server" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" height="30" width="40" style="max-width: 100%"></a>
-    <a href="https://getbootstrap.com/" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="30" width="40" style="max-width: 100%"></a>
-    <a href="https://docs.microsoft.com/dotnet/" rel="nofollow"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotNET" height="30" width="40" style="max-width: 100%"></a>
+    <a href="https://www.arduino.cc" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" height="30" width="40" style="max-width: 100%"></a>
+    <a href="https://www.w3schools.com/cs" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="30" width="40" style="max-width: 100%"></a>
+    <a href="https://www.w3schools.com/html/" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="30" width="40" style="max-width: 100%"></a>
+    <a href="https://www.w3schools.com/css/" rel="nofollor" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="30" width="40" style="max-width: 100%"></a>
+    <a href="https://code.visualstudio.com/" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="30" width="40" style="max-width: 100%"></a>
+    <a href="https://visualstudio.microsoft.com/" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="30" width="40" style="max-width: 100%"></a>
+    <a href="https://www.w3schools.com/mySQl" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="30" width="40" style="max-width: 100%"></a>
+    <a href="https://www.microsoft.com/sql-server" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" height="30" width="40" style="max-width: 100%"></a>
+    <a href="https://getbootstrap.com/" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="30" width="40" style="max-width: 100%"></a>
+    <a href="https://docs.microsoft.com/dotnet/" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotNET" height="30" width="40" style="max-width: 100%"></a>
 </div>
