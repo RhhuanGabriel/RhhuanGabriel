@@ -1,5 +1,5 @@
 <div>
-    <iframe src="https://gifer.com/embed/3odR" width=480 height=366.829 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com"></a></p>
+    <img align="center" src="https://c.tenor.com/prPRe84UdDMAAAAC/pet-pet-the-microsoft-visual-studio.gif" style="max-width: 100%; display: inline-block" data-target="animated-image.originalImage">
 </div>
 
 <h1 align="center" dir="auto">Olá, me chamo Rhuan</h1>
