@@ -1,4 +1,4 @@
-<div>
+<div align="center">
     <img align="center" src="https://c.tenor.com/prPRe84UdDMAAAAC/pet-pet-the-microsoft-visual-studio.gif" style="max-width: 100%; display: inline-block" data-target="animated-image.originalImage">
 </div>
 
