@@ -1,5 +1,5 @@
 <div>
-    <img align="center" src="https://gifer.com/embed/3odR" width=480 height=366.829 frameBorder="0" allowFullScreen style="max-width: 100%; display: inline-block" data-target="animated-image.originalImage">
+    <iframe src="https://gifer.com/embed/3odR" width=480 height=366.829 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com"></a></p>
 </div>
 
 <h1 align="center" dir="auto">Olá, me chamo Rhuan</h1>
