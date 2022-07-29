@@ -30,7 +30,6 @@
     <a href="https://getbootstrap.com/" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="30" width="40" style="max-width: 100%"></a>
     <a href="https://docs.microsoft.com/dotnet/" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotNET" height="30" width="40" style="max-width: 100%"></a>
     <a href="https://git-scm.com/" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="30" width="40" style="max-width: 100%"></a>
-    <a href="https://www.opera.com/gx" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" alt="OperaGX" height="30" width="40" style="max-width: 100%"></a>
     <a href="https://www.github.com" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" height="30" width="40" style="max-width: 100%"></a>
     <a href="https://www.blender.org" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" height="30" width="40" style="max-width: 100%"></a>
 </div>
