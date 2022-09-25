@@ -30,4 +30,5 @@
     <a href="https://git-scm.com/" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="30" width="40" style="max-width: 100%"></a>
     <a href="https://www.github.com" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" height="30" width="40" style="max-width: 100%"></a>
     <a href="https://www.blender.org" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" height="30" width="40" style="max-width: 100%"></a>
+    <a href="https://www.w3schools.com/js/" rel="nofollow" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30" width="40" style="max-width: 100%"></a>
 </div>
